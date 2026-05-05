@@ -1,4 +1,4 @@
-package com.example.lineapp.ui.theme
+package com.example.lineapp.presentation.theme
 
 import android.app.Activity
 import android.os.Build

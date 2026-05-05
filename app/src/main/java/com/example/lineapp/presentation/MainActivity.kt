@@ -1,4 +1,4 @@
-package com.example.lineapp
+package com.example.lineapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.lineapp.ui.theme.LineAppTheme
+import com.example.lineapp.presentation.theme.LineAppTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

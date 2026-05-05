@@ -1,4 +1,4 @@
-package com.example.lineapp.ui.theme
+package com.example.lineapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
